@@ -35,4 +35,3 @@ public class BirdScript : MonoBehaviour
     birdIsAlive = false;
    }
 }
-editing BirdScript
