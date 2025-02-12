@@ -1,2 +1,2 @@
-# Flappy-Bird
+# Retro-Flapper
  First game dev project (Unity)
