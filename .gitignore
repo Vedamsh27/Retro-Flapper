@@ -1,0 +1,17 @@
+# Unity
+Library/
+Temp/
+Logs/
+UserSettings/
+Build/
+Builds/
+*.DS_Store
+
+# Python
+GestureController/venv/
+GestureController/__pycache__/
+GestureController/*.pyc
+GestureController/hand_landmarker.task
+
+# VS Code
+.vscode/
