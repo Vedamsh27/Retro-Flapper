@@ -16,3 +16,4 @@ GestureController/hand_landmarker.task
 # VS Code
 .vscode/
 
+demo/*.gif
