@@ -2,7 +2,9 @@
 
 > A Flappy Bird clone built in Unity, upgraded with **AI-powered hand gesture control** using computer vision.
 
-![Demo](demo/demo.gif)
+<p align="center">
+  <img src="demo/demo.gif" alt="Retro Flapper Demo" width="600"/>
+</p>
 
 ---
 
